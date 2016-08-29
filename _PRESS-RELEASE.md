@@ -18,27 +18,39 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  &chill
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  Enjoy Netflix with your friends
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  Ever find yourself with a group of friends wondering what to do? &chill is a website designed with you and your friends in mind. Connect your Netflix account and enjoy watching your favorite shows with your friends
+
+  Watch Netflix the better way. &chill combines your favorite Netflix shows and movies with an immersive chat experience.  Never Netflix alone again.
 
 ## Problem ##
   > Describe the problem your product solves.
+  Netflix offers the best shows and movies but no ability to share that experience with others.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  &chill connects the Netflix you love and know with the significant other or friends you can't immediately visit.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  Never be bored again. Chill with anyone, anywhere with &chill. Now compatible with Netflix.
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Sign up for an account and connect with Netflix to get started.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  My boyfriend had just moved to San Francisco. We started House of Cards but I felt bad watching watching without him. &chill relieved that guilt and gave us some quality time together! Highly recommended!
+  - Connie
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  Sign up for an account on &chill and connect your Netflix account to get started
